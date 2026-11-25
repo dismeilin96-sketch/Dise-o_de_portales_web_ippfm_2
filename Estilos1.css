@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(228, 220, 210);
+    align-items: center;
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    color: rgb(102, 97, 95);
+    margin-bottom: 2px;
+}
+
+.pa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(117, 114, 108);
+    margin-top: 0px;
+}
+
+.subtitulo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: rgb(102, 97, 95);
+}
+
+.Contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.Tarjeta {
+padding: 20px;
+border: 5px, solid rgb(75, 65, 52);
+border-radius: 16px;
+width: 250px;
+margin: 20px;
+background-color: rgb(136, 129, 120);
+}
+
+.nombre {
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    color: rgb(255, 231, 199);
+}
+
+.parrafo {
+    font-family: Impact;
+    font-size: 20px;
+    color: rgb(241, 230, 215);
+}
+
+.boton {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Arial Narrow Bold';
+    font-size: 20px;
+    font-style: bold;
+    color: rgb(117, 103, 85);
+    width: 150px;
+}
+
+.imagen {
+border-radius: 16px;
+width: 250px;
+}
